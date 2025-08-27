@@ -1,0 +1,15 @@
+h1 {
+    font-weight: 500;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3,
+.navbar,
+.btn {
+    font-family: "Poppins", sans-serif;
+}
